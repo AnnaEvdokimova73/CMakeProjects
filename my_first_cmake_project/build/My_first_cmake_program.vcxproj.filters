@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\my_first_cmake_project\src\my_first_cmake_program.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Нетология дз\CMakeProjects\my_first_cmake_project\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F18A62A7-BA47-3CC7-96A8-75D2AEFCE73F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

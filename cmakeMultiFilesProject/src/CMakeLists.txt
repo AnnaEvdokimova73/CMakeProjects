@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8) 
+project(CmakeMultiFilesProject)
+set(CMAKE_CXX_STANDARD 17)
+set(SOURCE_EXE classHierarchy.cpp equaltrian.cpp figure.cpp isotrian.cpp parall.cpp quadrilateral.cpp rectangle.cpp recttrian.cpp rhombus.cpp square.cpp triangle.cpp)
+add_executable(CmakeMultiFilesProject ${SOURCE_EXE})				

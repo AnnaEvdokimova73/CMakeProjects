@@ -1,0 +1,10 @@
+^E:\НЕТОЛОГИЯ ДЗ\CMAKEPROJECTS\MY_FIRST_CMAKE_PROJECT\BUILD\CMAKEFILES\C729426C763BA4F6C51C0076EDA18D8D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/Нетология дз/CMakeProjects/my_first_cmake_project/src" "-BE:/Нетология дз/CMakeProjects/my_first_cmake_project/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/Нетология дз/CMakeProjects/my_first_cmake_project/build/My_first_cmake_program.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

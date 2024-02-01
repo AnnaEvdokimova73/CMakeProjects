@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\classHierarchy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\equaltrian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\figure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\isotrian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\parall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\quadrilateral.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\rectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\recttrian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\rhombus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Нетология дз\CMakeProjects\cmakeMultiFilesProject\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B18B6ADB-DD58-3D97-B668-9ADFC1E49474}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
